@@ -2853,7 +2853,8 @@ func init() {
               "type": "string",
               "enum": [
                 "ClusterIP",
-                "NodePort"
+                "NodePort",
+                "ExternalIP"
               ]
             }
           }
@@ -6110,7 +6111,8 @@ func init() {
               "type": "string",
               "enum": [
                 "ClusterIP",
-                "NodePort"
+                "NodePort",
+                "ExternalIP"
               ]
             }
           }
