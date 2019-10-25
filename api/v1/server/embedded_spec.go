@@ -2854,7 +2854,7 @@ func init() {
               "enum": [
                 "ClusterIP",
                 "NodePort",
-                "ExternalIP"
+                "ExternalIPs"
               ]
             }
           }
@@ -6112,7 +6112,7 @@ func init() {
               "enum": [
                 "ClusterIP",
                 "NodePort",
-                "ExternalIP"
+                "ExternalIPs"
               ]
             }
           }
